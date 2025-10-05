@@ -5,8 +5,8 @@
 ###
 
 # 💫 About Me:
-Currectly learning LOVE2D Framework
-Passionate GameDev
+Currectly learning LOVE2D Framework.
+
 
 
 ## 🌐 Socials:
