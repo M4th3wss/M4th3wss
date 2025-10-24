@@ -4,8 +4,7 @@
 
 ###
 
-# 💫 About Me:
-Currectly learning LOVE2D Framework.
+
 
 
 
